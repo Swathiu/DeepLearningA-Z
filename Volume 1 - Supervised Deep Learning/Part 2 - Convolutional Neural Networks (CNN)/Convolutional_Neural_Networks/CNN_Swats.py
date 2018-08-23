@@ -95,4 +95,3 @@ prediction = classifier.predict_classes(img)
  
 result = classifier.predict(img)
 
-#Apply evaluation Techniques from ANN
